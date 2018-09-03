@@ -1,0 +1,2 @@
+# pitaya
+web init
